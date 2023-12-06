@@ -1,7 +1,7 @@
 <img src="https://github.com/CubeBrainStd/SwiftDelivery/assets/90138396/4ac1fd9c-7ca0-447c-ade2-efce2bc80a8e" height="100" align="right"/>
 
 # SwiftDelivery
-The new cubebrain labs delivery robot
+
 ![GitHub issues](https://img.shields.io/github/issues/CubeBrainStd/SwiftDelivery) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CubeBrainStd/SwiftDelivery)
 
 
