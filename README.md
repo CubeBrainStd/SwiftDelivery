@@ -2,7 +2,7 @@
 
 # SwiftDelivery
 
-![GitHub issues](https://img.shields.io/github/issues/CubeBrainStd/SwiftDelivery) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CubeBrainStd/SwiftDelivery)
+![GitHub issues](https://img.shields.io/github/issues/CubeBrainStd/SwiftDelivery) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CubeBrainStd/SwiftDelivery) [![Documentation](https://img.shields.io/badge/GitBook-Docu-lightblue)](https://cubebrain-labs.gitbook.io/)
 
 
 SwiftDelivery is an automated system designed for personal and small-scale industrial use. The system is intended to complete a scalable semi-automated system of transport robots. with the ability to track and trace a device connected to your application or other robots.
